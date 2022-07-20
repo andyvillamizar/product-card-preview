@@ -1,0 +1,44 @@
+main {
+    flex-direction: row;
+    max-width: 500px;
+    height: auto;
+    margin-top: calc( 35% - 20%);
+}
+
+.main_container_text {
+    width: 44%;
+}
+
+.container_title h1 {
+    font-size: 2.5rem;
+}
+
+.container_title .text__body {
+    font-size: 1.3rem;
+}
+
+.container_title {
+    width: 92%;
+    margin-bottom: 15px;
+}
+
+.main_img_container img {
+max-width: 30vw;
+height: 345px;
+border-radius: 10px 0 0 10px;
+}
+
+.link {
+width: 200px;
+height: 43px;
+margin-left: calc(50% - 102px);
+margin-top: 10px;
+}
+
+.link:hover {
+background-color: #315447;
+}
+
+.attribution {
+font-size: 1.5rem;
+}
